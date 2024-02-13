@@ -7,14 +7,14 @@ React-Powered: Utilizing the power of React, this app provides a smooth and dyna
 Responsiveness: Designed to adapt to various screen sizes, making it convenient to manage tasks on any device.
 Local Storage: Your tasks are safe! Leveraging the local storage feature to persist your to-dos even if you close the browser.
 
-How to Use:
+# How to Use:
 
-🚀 Check out the live demo here.
+🚀 Check out the live demo here: https://day-to-day-list.netlify.app
 🛠️ Feel free to clone or fork the repo.
-🏗️ Set it up locally using npm install and npm start.
+🏗️ Set it up locally using " npm install and npm start ".
 ✅ Start adding and managing your tasks!
 
-Tech Stack:
+# Tech Stack:
 
 React.js
 HTML5 & CSS3
